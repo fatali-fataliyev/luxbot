@@ -1,0 +1,2 @@
+# luxbot
+Simple terminal bot
