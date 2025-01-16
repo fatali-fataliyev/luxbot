@@ -1,0 +1,26 @@
+{
+  "name": "luxbot",
+  "version": "1.0.0",
+  "description": "a simple CLI bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatali-fataliyev/luxbot.git"
+  },
+  "keywords": [
+    "luxbot",
+    "lux",
+    "cli",
+    "luxbot",
+    "cli"
+  ],
+  "author": "fatali-fataliyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fatali-fataliyev/luxbot/issues"
+  },
+  "homepage": "https://github.com/fatali-fataliyev/luxbot#readme"
+}
